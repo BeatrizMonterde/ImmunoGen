@@ -1,4 +1,4 @@
-# Immunopeptidome-genomic-coordintes
+# Immunopeptidome-genomic-coordinates
 Script to convert immunopeptidome files generated with SOPRANO to genomic coordinates 
 Programs required: R
 File required: GRCh38_transcripts_gene_protein.csv
