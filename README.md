@@ -1,5 +1,7 @@
 # ImmunoGen
 Script to convert immunopeptidome files generated with SOPRANO to genomic coordinates 
+https://github.com/instituteofcancerresearch/SOPRANO
+
 Programs required: R
 File required: GRCh38_transcripts_gene_protein.csv
 
